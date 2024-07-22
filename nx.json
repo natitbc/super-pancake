@@ -3,7 +3,7 @@
   "namedInputs": {
     "default": ["{projectRoot}/**/*", "sharedGlobals"],
     "production": ["default"],
-    "sharedGlobals": []
+    "sharedGlobals": ["{workspaceRoot}/.github/workflows/ci.yml"]
   },
   "nxCloudAccessToken": "N2E2ZjAzZjMtZmJmMS00NjgyLWIzNGYtODZkYzk0MWE0MmVlfHJlYWQtd3JpdGU="
 }
